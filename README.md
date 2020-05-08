@@ -1,2 +1,2 @@
 # mcbepack
-AddOn for Minecraft Bedrock
+An Add-On for Minecraft Bedrock
