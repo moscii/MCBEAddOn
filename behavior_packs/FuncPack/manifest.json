@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Functions behavior pack",
+        "name": "FuncPack",
+        "uuid": "2bb3a159-6731-4352-82ba-e00974c2c186",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Functions behavior pack",
+            "type": "data",
+            "uuid": "e9672ec3-3b7f-403e-8510-b67853a2b289",
+            "version": [0, 0, 1]
+        }
+    ]
+}

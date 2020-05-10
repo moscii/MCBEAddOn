@@ -1,2 +1,1 @@
-# mcbepack
-An Add-On for Minecraft Bedrock
+/setblock 0 100 0 stone 0

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Entities behavior pack",
+        "name": "EntiPack",
+        "uuid": "58848cb4-b52e-4c8d-88cc-03608906c038",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "Entities behavior pack",
+            "type": "data",
+            "uuid": "e6340ddb-0703-414a-b4f6-07102d8c0fe3",
+            "version": [0, 0, 1]
+        }
+    ]
+}
